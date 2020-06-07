@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crow-nest.Github.io</id>
     <title>Crow&apos;s Nest</title>
-    <updated>2020-06-07T07:53:37.375Z</updated>
+    <updated>2020-06-07T07:56:59.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crow-nest.Github.io"/>
     <link rel="self" href="https://crow-nest.Github.io/atom.xml"/>
@@ -11,7 +11,16 @@
     <icon>https://crow-nest.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Crow&apos;s Nest</rights>
     <entry>
-        <title type="html"><![CDATA[海伯利安]]></title>
+        <title type="html"><![CDATA[Operad theory]]></title>
+        <id>https://crow-nest.Github.io/post/operad-theory/</id>
+        <link href="https://crow-nest.Github.io/post/operad-theory/">
+        </link>
+        <updated>2020-06-07T07:55:58.000Z</updated>
+        <content type="html"><![CDATA[<p>operad was defined by may</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hochschild (co)homology theory]]></title>
         <id>https://crow-nest.Github.io/post/hai-bo-li-an/</id>
         <link href="https://crow-nest.Github.io/post/hai-bo-li-an/">
         </link>
